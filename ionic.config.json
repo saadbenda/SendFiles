@@ -1,0 +1,7 @@
+{
+  "name": "SendFilesViaLane",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
